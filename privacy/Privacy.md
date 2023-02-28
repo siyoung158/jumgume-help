@@ -98,4 +98,4 @@
 이 개인정보 처리방침은 2022. 03. 07일부터 적용됩니다. 
 
 ### 이전 개인정보처리방침 보러가기
-[2023. 01. 14. ~ 2023. 02. 28](https://github.com/PlQ51/jumgume-help/blob/507eda1665be95291405aaf7b15c41d0d8083c16/privacy/Privacy.md)
+[2023. 01. 14. ~ 2023. 03. 06](https://github.com/PlQ51/jumgume-help/blob/507eda1665be95291405aaf7b15c41d0d8083c16/privacy/Privacy.md)
