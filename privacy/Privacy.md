@@ -1,4 +1,4 @@
-## English ver: https://github.com/KimPlQ/jumgume-help/blob/master/privacy/Privacy_english.md
+### English ver: https://github.com/KimPlQ/jumgume-help/blob/master/privacy/Privacy_english.md
 
 # 점검이 개인정보 처리방침
 점검이는 정보주체의 자유와 권리 보호를 위해 「개인정보 보호법」 및 관계 법령이 정한 바를 준수하여,
