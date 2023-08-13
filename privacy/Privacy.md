@@ -96,7 +96,7 @@
 신고나 상담이 필요한 경우 개인정보 보호책임자에게 연락해주시기 바랍니다.
 
 ## 개인정보 처리방침의 변경
-이 개인정보 처리방침은 2022. 03. 07일부터 적용됩니다. 
+이 개인정보 처리방침은 2022. 08. 21일부터 적용됩니다. 
 
 ### 이전 개인정보처리방침 보러가기
-[2023. 01. 14. ~ 2023. 03. 06](https://github.com/PlQ51/jumgume-help/blob/507eda1665be95291405aaf7b15c41d0d8083c16/privacy/Privacy.md)
+[2023. 03. 07. ~ 2023. 08. 21](https://github.com/KimPlQ/jumgume-help/blob/fd0428ac0d171392f20d590bcd070e119dfc4248/privacy/Privacy.md)
