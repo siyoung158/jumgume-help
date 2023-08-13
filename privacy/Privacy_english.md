@@ -56,7 +56,7 @@ Jumgume will make a public notice of it through bulletin channel of [support ser
 ## 7. Responsible department of Jumgume
 Jumgume designates the person in charge of personal
 
-E-mail: siyoung158@naver.com <br>
+E-mail: jumgume-dev@naver.com <br>
 Discord: @d.flash_q
 
 ※ There may be typos or grammatical errors in the Privacy Policy.
