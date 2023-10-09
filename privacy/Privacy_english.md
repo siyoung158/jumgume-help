@@ -1,3 +1,4 @@
+## Coming soon
 ### 한국어 버전: https://github.com/KimPlQ/jumgume-help/blob/master/privacy/Privacy.md
 
 # This privacy policy will be deleted on September 12th.
