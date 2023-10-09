@@ -1,26 +1,6 @@
-### 한국어 버전: https://github.com/KimPlQ/jumgume-help/blob/master/privacy/Privacy.md
+## Coming Soon. Not applicable to 점검이.
 
-# This privacy policy will be deleted on September 12th.
-
-<details>
-<summary>Open/Close Notice</summary>
- 
-## Hello, I am the developer of 점검이(Jumgume).
-Jumgume's personal information processing policy is scheduled to change on September 12th.
-
-The changes are as follows:
-1. Deletion of personal information processing policy
-
-The reasons for deletion are as follows:
-- Because it is difficult to identify individuals using the information being processed (ID in Discord, nickname entered directly (party command))
-
-If you have any questions regarding the personal information processing policy, please contact us via email below or `/inquiry`.<br>
-Email: jumgume-dev@naver.com<br><br>
-
-I'm sorry that I've been making related announcements several times recently!<br><br>
-
-+ The database on whether you agree to the privacy policy will be deleted, and the consent button will also be deleted.
-</details>
+## Korean Version(한국어 버전): https://github.com/KimPlQ/jumgume-help/blob/master/privacy/Privacy.md
 
 This Privacy Policy (the "Policy") explains the way of treatment of the information which is
 provided or collected in the websites on which this Policy is posted. In addition the Policy also

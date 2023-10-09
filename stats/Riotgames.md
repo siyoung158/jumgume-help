@@ -9,3 +9,5 @@ Jumgume(점검이)는 Riot Games가 보증하지 않으며 Riot Games 또는 Rio
 공식적으로 관련된 사람의 견해나 의견을 반영하지 않습니다.
 
 Riot Games 및 모든 관련 자산은 Riot Games, Inc.의 상표 또는 등록 상표입니다.
+
+※ 번역본과 원본 사이에 내용이 충돌할 경우 원본을 우선으로 합니다.
