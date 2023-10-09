@@ -1,6 +1,6 @@
 ## Coming Soon. Not applicable to 점검이.
 
-## Korean Version(한국어 버전): https://github.com/KimPlQ/jumgume-help/blob/master/privacy/Privacy.md
+### Korean Version(한국어 버전): https://github.com/KimPlQ/jumgume-help/blob/master/privacy/Privacy.md
 
 This Privacy Policy (the "Policy") explains the way of treatment of the information which is
 provided or collected in the websites on which this Policy is posted. In addition the Policy also
@@ -53,12 +53,12 @@ The website, products and services of Jumgume are the ones to be provided to ord
 
 ## 6. Modification of Privacy Protection Policy
 Jumgume has the right to amend or modify this Policy from time to time and, in such case,
-Jumgume will make a public notice of it through bulletin channel of [support server](https://jumgume.timeless-dev.kr/discord).
+Jumgume will make a public notice of it through bulletin channel of [support server](https://jumgume.xyz/discord).
 
 ## 7. Responsible department of Jumgume
 Jumgume designates the person in charge of personal
 
-E-mail: jumgume-dev@naver.com <br>
+E-mail: contact@jumgume.xyz <br>
 Discord: @d.flash_q
 
 ※ There may be typos or grammatical errors in the Privacy Policy.
